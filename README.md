@@ -1,4 +1,8 @@
-### Hi there 👋🏻
+### Hey there! 👋🏻
+
+Website | [alex-tai.com](alex-tai.com)
+Twitter | [@alextechtai](twitter.com/alextechtai)
+
 
 <!--
 **alextechtai/alextechtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
